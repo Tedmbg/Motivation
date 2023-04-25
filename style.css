@@ -1,0 +1,30 @@
+h1{
+    font-family: 'Libre Baskerville', serif;
+    color:white;
+    background-color:black;
+    text-transform: capitalize;
+
+}
+html{
+    background-color: black;
+}
+
+img{
+    border:5px solid white;
+    width:100%;
+    padding:0px;
+    
+}
+p{
+    color:#e0745f;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    text-align: right;
+    font-size: small;
+}
+
+.motiv{
+    width:25%;
+    margin-left:35%;
+    margin-top: 60px;
+   }
